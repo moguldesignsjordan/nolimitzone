@@ -1,6 +1,6 @@
 import './index.css';
 import React, { useState, useEffect } from 'react';
-import { motion, useScroll, useTransform, useSpring } from 'framer-motion';
+import { motion } from 'framer-motion';
 import { Gamepad2, PartyPopper, Ticket, MapPin, Calendar, CreditCard, ShieldCheck, Users, Zap, Trophy, Star, Heart, Lightbulb } from 'lucide-react';
 
 // --- Helper Component: Automated Counter ---
